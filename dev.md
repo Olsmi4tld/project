@@ -1,4 +1,4 @@
-# hey.md
+hey
 
 
 some update
